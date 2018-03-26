@@ -60,9 +60,9 @@
         </table>
     </form>
     <hr>
-    <a href="insertBoard.jsp">글 등록</a>
+    <a href="../insertBoard.jsp">글 등록</a>
     <a href="deleteBoard.do?seq=${board.seq}">글 삭제</a>
-    <a href="getBoardList.jsp">글 목록</a>
+    <a href="getBoardList.do">글 목록</a>
 </center>
 </body>
 </html>

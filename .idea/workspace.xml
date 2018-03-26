@@ -7,33 +7,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15281ccd-2f8f-4b87-b1e1-765cd4cfbbf1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/DeleteBoardController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/UpdateBoardController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/Controller.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/HandlerMapping.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/ViewResolver.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/user/LogoutController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/action-servlet.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/DispatcherServlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/DispatcherServlet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/DeleteBoardController.java" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/DeleteBoardController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardController.java" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardListController.java" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardListController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/InsertBoardController.java" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/InsertBoardController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/UpdateBoardController.java" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/board/UpdateBoardController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/Controller.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/DispatcherServlet.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/HandlerMapping.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/ViewResolver.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/user/LoginController.java" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/user/LoginController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springbook/view/user/LogoutController.java" afterPath="$PROJECT_DIR$/src/main/java/com/springbook/view/user/LogoutController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/action-servlet.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/deleteBoard_proc.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/getBoard.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/getBoard.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/getBoardList.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/getBoardList.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/getBoard.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/getBoard.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/getBoardList.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/getBoardList.jsp" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/insertBoard.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/insertBoard.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/insertBoard_proc.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/logout_proc.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/updateBoard_proc.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/controller/DispatcherServlet.class" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/controller/DispatcherServlet.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login_proc.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/action-servlet.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/applicationContext.xml" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/board/DeleteBoardController.class" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/board/DeleteBoardController.class" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/board/GetBoardController.class" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/board/GetBoardController.class" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/board/GetBoardListController.class" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/board/GetBoardListController.class" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/board/InsertBoardController.class" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/board/InsertBoardController.class" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/board/UpdateBoardController.class" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/board/UpdateBoardController.class" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/controller/Controller.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/controller/DispatcherServlet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/controller/HandlerMapping.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/controller/ViewResolver.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/user/LoginController.class" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/user/LoginController.class" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/user/LogoutController.class" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springbook/view/user/LogoutController.class" />
       <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/deleteBoard_proc.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/getBoard.jsp" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/getBoard.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/getBoardList.jsp" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/getBoardList.jsp" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/getBoard.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/getBoardList.jsp" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/insertBoard.jsp" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/insertBoard.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/insertBoard_proc.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/logout_proc.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/updateBoard_proc.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/controller/DispatcherServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/springbook/view/controller/DispatcherServlet.class" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/login.jsp" afterPath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/target/biz-1.0.0-BUILD-SNAPSHOT/login_proc.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/board/DeleteBoardController.class" afterPath="$PROJECT_DIR$/target/classes/com/springbook/view/board/DeleteBoardController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/board/GetBoardController.class" afterPath="$PROJECT_DIR$/target/classes/com/springbook/view/board/GetBoardController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/board/GetBoardListController.class" afterPath="$PROJECT_DIR$/target/classes/com/springbook/view/board/GetBoardListController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/board/InsertBoardController.class" afterPath="$PROJECT_DIR$/target/classes/com/springbook/view/board/InsertBoardController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/board/UpdateBoardController.class" afterPath="$PROJECT_DIR$/target/classes/com/springbook/view/board/UpdateBoardController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/controller/Controller.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/controller/DispatcherServlet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/controller/HandlerMapping.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/controller/ViewResolver.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/user/LoginController.class" afterPath="$PROJECT_DIR$/target/classes/com/springbook/view/user/LoginController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springbook/view/user/LogoutController.class" afterPath="$PROJECT_DIR$/target/classes/com/springbook/view/user/LogoutController.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,88 +69,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DispatcherServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/controller/DispatcherServlet.java">
+      <file leaf-file-name="InsertBoardController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/InsertBoardController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HandlerMapping.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/controller/HandlerMapping.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#907#908#0" expanded="true" />
-                <element signature="e#948#949#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getBoard.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/getBoard.jsp">
+      <file leaf-file-name="BoardDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="63" column="44" lean-forward="false" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
-              <folding />
+            <state relative-caret-position="320">
+              <caret line="27" column="60" lean-forward="false" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+              <folding>
+                <marker date="1522039055161" expanded="true" signature="476:593" ph="insert into board... " />
+                <marker date="1522039055161" expanded="true" signature="549:585" ph="select nvl(m... board" />
+                <marker date="1522039055161" expanded="true" signature="637:701" ph="update board... " />
+                <marker date="1522039055161" expanded="true" signature="810:841" ph="select * fro... board" />
+                <marker date="1522039055161" expanded="true" signature="883:920" ph="select * fro... board" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getBoardList.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/getBoardList.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="896">
-              <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="BoardDAOSpring.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardDAOSpring.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DispatcherServlet.java" pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="505" column="37" lean-forward="true" selection-start-line="505" selection-start-column="37" selection-end-line="505" selection-end-column="37" />
+              <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
               <folding>
-                <element signature="e#23900#23901#0" expanded="true" />
-                <element signature="e#23930#23931#0" expanded="true" />
+                <marker date="1521613745797" expanded="true" signature="628:728" ph="insert into board... " />
+                <marker date="1521613745797" expanded="true" signature="684:720" ph="select nvl(m... board" />
+                <marker date="1521613745797" expanded="true" signature="772:835" ph="update board... " />
+                <marker date="1521613745797" expanded="true" signature="944:975" ph="select * fro... board" />
+                <marker date="1521613745797" expanded="true" signature="1017:1054" ph="select * fro... board" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="action-servlet.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/action-servlet.xml">
+      <file leaf-file-name="presentation-layer.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/presentation-layer.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="81" lean-forward="false" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="10" column="81" lean-forward="false" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+            <state relative-caret-position="144">
+              <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -135,19 +126,69 @@
       <file leaf-file-name="GetBoardController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            <state relative-caret-position="423">
+              <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteBoardController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/DeleteBoardController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpdateBoardController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/UpdateBoardController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/user/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getBoard.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/getBoard.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="767">
+              <caret line="64" column="28" lean-forward="false" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BoardVO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/board/BoardVO.java">
+      <file leaf-file-name="GetBoardListController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardListController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="464">
+              <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,6 +208,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>init</find>
+      <find>cnt</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -180,10 +222,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/TVUser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/common/JDBCUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/BoardService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/common/Log4jAdvice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/user/UserVO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/user/impl/UserDAO.java" />
@@ -200,7 +240,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/config/database.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardRowMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/BoardVO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/BoardServiceClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardDAOSpring.java" />
@@ -210,26 +249,30 @@
         <option value="$PROJECT_DIR$/src/main/webapp/updateBoard_proc.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/deleteBoard_proc.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/logout_proc.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/insertBoard.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/ViewResolver.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/DispatcherServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/GetBoardListController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/GetBoardController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardListController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/user/LoginController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/board/InsertBoardController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/board/UpdateBoardController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/board/DeleteBoardController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/user/LogoutController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/controller/HandlerMapping.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/getBoard.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/getBoardList.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/action-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/user/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/board/UpdateBoardController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/board/DeleteBoardController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/user/LogoutController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/insertBoard.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/board/getBoard.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/presentation-layer.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springbook/view/board/InsertBoardController.java" />
       </list>
     </option>
   </component>
@@ -246,9 +289,10 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1094" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="685" />
+    <option name="y" value="-16" />
+    <option name="width" value="462" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -348,6 +392,28 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springbook" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+              <item name="board" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="BoardDAOSpring.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="BoardWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoardWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbook" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BoardWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoardWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbook" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -359,16 +425,6 @@
               <item name="springbook" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="board" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BoardWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoardWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbook" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BoardWeb" type="b2602c69:ProjectViewProjectNode" />
@@ -392,6 +448,14 @@
               <item name="BoardWeb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BoardWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoardWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -401,6 +465,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BoardWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BoardWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BoardWeb" type="b2602c69:ProjectViewProjectNode" />
@@ -434,6 +507,11 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.springbook.biz.user" />
       <recent name="com.springbook.biz.board" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hulklee01\IdeaProjects\BoardWeb\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\hulklee01\IdeaProjects\BoardWeb\src\main\webapp\WEB-INF\board" />
+      <recent name="C:\Users\hulklee01\IdeaProjects\BoardWeb\src\main\webapp\WEB-INF\config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -668,15 +746,15 @@
       <workItem from="1521456110563" duration="305000" />
       <workItem from="1521467093680" duration="502000" />
       <workItem from="1521473939673" duration="637000" />
-      <workItem from="1521510829757" duration="70004000" />
+      <workItem from="1521510829757" duration="83022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71448000" />
+    <option name="totallyTimeSpent" value="84466000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -691,7 +769,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -700,9 +778,9 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280255" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19921875" sideWeight="0.71406" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19921875" sideWeight="0.28593996" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22148438" sideWeight="0.71406" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22148438" sideWeight="0.28593996" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -723,31 +801,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/user/UserVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-          <folding>
-            <element signature="e#185#186#0" expanded="false" />
-            <element signature="e#210#211#0" expanded="false" />
-            <element signature="e#246#247#0" expanded="false" />
-            <element signature="e#274#275#0" expanded="false" />
-            <element signature="e#309#310#0" expanded="false" />
-            <element signature="e#340#341#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#428#429#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="false" />
-            <element signature="e#486#487#0" expanded="false" />
-            <element signature="e#526#527#0" expanded="false" />
-            <element signature="e#558#559#0" expanded="false" />
-            <element signature="e#589#590#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#656#657#0" expanded="false" />
-            <element signature="e#688#689#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/user/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -861,14 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/database.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/common/JDBCUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
@@ -909,23 +954,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="19" selection-end-column="3" />
           <folding>
             <element signature="e#0#707#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardDAOSpring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1131#1132#0" expanded="false" />
-            <element signature="e#1178#1179#0" expanded="false" />
-            <marker date="1521613745797" expanded="true" signature="628:728" ph="insert into board... " />
-            <marker date="1521613745797" expanded="true" signature="684:720" ph="select nvl(m... board" />
-            <marker date="1521613745797" expanded="true" signature="772:835" ph="update board... " />
-            <marker date="1521613745797" expanded="true" signature="944:975" ph="select * fro... board" />
-            <marker date="1521613745797" expanded="true" signature="1017:1054" ph="select * fro... board" />
           </folding>
         </state>
       </provider>
@@ -972,69 +1000,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <marker date="1521515443225" expanded="true" signature="476:593" ph="insert into board... " />
-            <marker date="1521515443225" expanded="true" signature="549:585" ph="select nvl(m... board" />
-            <marker date="1521515443225" expanded="true" signature="637:701" ph="update board... " />
-            <marker date="1521515443225" expanded="true" signature="810:841" ph="select * fro... board" />
-            <marker date="1521515443225" expanded="true" signature="883:920" ph="select * fro... board" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/insertBoard.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/login_proc.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/controller/ViewResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-          <folding>
-            <element signature="e#163#164#0" expanded="false" />
-            <element signature="e#199#200#0" expanded="false" />
-            <element signature="e#243#244#0" expanded="false" />
-            <element signature="e#279#280#0" expanded="false" />
-            <element signature="e#325#326#0" expanded="false" />
-            <element signature="e#374#375#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -1067,102 +1032,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardListController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="11" column="55" lean-forward="false" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/user/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/InsertBoardController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/UpdateBoardController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/DeleteBoardController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/user/LogoutController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/controller/HandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#907#908#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/board/BoardVO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
           <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/getBoard.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="63" column="44" lean-forward="false" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/getBoardList.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -1227,45 +1100,220 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/controller/ViewResolver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="10" column="81" lean-forward="false" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/action-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="81" lean-forward="false" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/controller/DispatcherServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="64">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/controller/HandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="505" column="37" lean-forward="true" selection-start-line="505" selection-start-column="37" selection-end-line="505" selection-end-column="37" />
+        <state relative-caret-position="202">
+          <caret line="157" column="13" lean-forward="false" selection-start-line="157" selection-start-column="13" selection-end-line="157" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="60" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/action-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login_proc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/user/LogoutController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
-            <element signature="e#23900#23901#0" expanded="true" />
-            <element signature="e#23930#23931#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/insertBoard.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/getBoardList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/GetBoardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/DeleteBoardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/UpdateBoardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/user/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/getBoard.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="64" column="28" lean-forward="false" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardDAOSpring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+          <folding>
+            <marker date="1521613745797" expanded="true" signature="628:728" ph="insert into board... " />
+            <marker date="1521613745797" expanded="true" signature="684:720" ph="select nvl(m... board" />
+            <marker date="1521613745797" expanded="true" signature="772:835" ph="update board... " />
+            <marker date="1521613745797" expanded="true" signature="944:975" ph="select * fro... board" />
+            <marker date="1521613745797" expanded="true" signature="1017:1054" ph="select * fro... board" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/presentation-layer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="27" column="60" lean-forward="false" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+          <folding>
+            <marker date="1522039055161" expanded="true" signature="476:593" ph="insert into board... " />
+            <marker date="1522039055161" expanded="true" signature="549:585" ph="select nvl(m... board" />
+            <marker date="1522039055161" expanded="true" signature="637:701" ph="update board... " />
+            <marker date="1522039055161" expanded="true" signature="810:841" ph="select * fro... board" />
+            <marker date="1522039055161" expanded="true" signature="883:920" ph="select * fro... board" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springbook/view/board/InsertBoardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
